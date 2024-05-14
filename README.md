@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hola!
 Soy dev lokooo
 
-#Codigo
+# Codigo
 
 ```
 que pasha
