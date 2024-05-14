@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 [Example](http://kriggerofcrypto.fun)
 Hola!
 Soy dev lokooo
+
 #Codigo
-`que pasha shavales`
+
+```
+que pasha
+shavales
+```
