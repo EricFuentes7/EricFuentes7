@@ -1,27 +1,20 @@
-### Hi there 👋
+# 👋 Hola, soy Eric Fuentes
 
-<!--
-**EricFuentes7/EricFuentes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado desarrollador **Frontend** de **16 años** y estoy en constante búsqueda de nuevos desafíos y habilidades. Me estoy especializando en el **Fullstack Development** y mejorando mis capacidades para convertirme en un desarrollador versátil.
 
-Here are some ideas to get you started:
+## 🚀 ¿Qué hago?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Desarrollo Frontend**: Me enfoco en crear interfaces de usuario atractivas y funcionales utilizando **HTML** y **CSS**.
+- 📚 **Aprendizaje continuo**: Soy autodidacta y disfruto explorando nuevas tecnologías y herramientas para mejorar mis habilidades.
 
-[Example](http://kriggerofcrypto.fun)
-Hola!
-Soy dev lokooo
+## 📚 Tecnologías y Herramientas
 
-# Codigo
+- **Lenguajes**: HTML, CSS, un poco de JavaScript
+- **Bases de Datos**: MySQL
+- **Herramientas**: Git, GitHub, VSCode
 
-```
-que pasha
-shavales
-```
+## ✨ ¿Por qué trabajar conmigo?
+
+- 🤓 **Autodidacta**: Siempre estoy aprendiendo por mi cuenta y buscando mejorar en cada proyecto.
+- 🧠 **Mentalidad de crecimiento**: Estoy listo para enfrentar nuevos retos y a
+![Your Stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical) <!-- Reemplaza 'tu-usuario-github' con tu nombre de usuario en GitHub -->
