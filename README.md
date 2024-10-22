@@ -1,20 +1,22 @@
-# 👋 Hola, soy Eric Fuentes
+# 👋 ¡Hola! Soy Eric Fuentes
 
-Soy un apasionado desarrollador **Frontend** de **16 años** y estoy en constante búsqueda de nuevos desafíos y habilidades. Me estoy especializando en el **Fullstack Development** y mejorando mis capacidades para convertirme en un desarrollador versátil.
+Soy un **desarrollador Frontend** de **16 años**, intentando mejorar en ese ámbito, y futuramente poder ser un **Fullstack Development**.
 
 ## 🚀 ¿Qué hago?
 
-- 🔧 **Desarrollo Frontend**: Me enfoco en crear interfaces de usuario atractivas y funcionales utilizando **HTML** y **CSS**.
-- 📚 **Aprendizaje continuo**: Soy autodidacta y disfruto explorando nuevas tecnologías y herramientas para mejorar mis habilidades.
+- 🔧 **Desarrollo Frontend**: Me encanta crear páginas webs con **HTML** y **CSS** principalmente, aunque luego tambien toco un poco de **Backend**, haciendo cosas con PHP y JS.
 
 ## 📚 Tecnologías y Herramientas
 
-- **Lenguajes**: HTML, CSS, un poco de JavaScript
+- **Lenguajes**: HTML, CSS y un poco de JavaScript
 - **Bases de Datos**: MySQL
 - **Herramientas**: Git, GitHub, VSCode
 
-## ✨ ¿Por qué trabajar conmigo?
+## ✨ Un poco sobre mí
 
-- 🤓 **Autodidacta**: Siempre estoy aprendiendo por mi cuenta y buscando mejorar en cada proyecto.
-- 🧠 **Mentalidad de crecimiento**: Estoy listo para enfrentar nuevos retos y a
-![Your Stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical) <!-- Reemplaza 'tu-usuario-github' con tu nombre de usuario en GitHub -->
+- 🤓 **Autodidacta**: Siempre estoy aprendiendo algo nuevo y buscando mejorar.
+- 🌟 **Mentalidad positiva**: Me encanta enfrentarme a nuevos desafíos y aprender de ellos.
+- 
+## 💻 Estadísticas
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical)
