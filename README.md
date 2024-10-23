@@ -15,8 +15,7 @@ Soy un **desarrollador Frontend** de **16 años**, intentando mejorar en ese ám
 ## ✨ Un poco sobre mí
 
 - 🤓 **Autodidacta**: Siempre estoy aprendiendo algo nuevo y buscando mejorar.
-- 🌟 **Mentalidad positiva**: Me encanta enfrentarme a nuevos desafíos y aprender de ellos.
-  
+    
 ## 💻 Estadísticas
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical)
