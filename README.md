@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Eric Fuentes
 
-Soy un **desarrollador Frontend** de **16 años**, intentando mejorar en ese ámbito, y futuramente poder ser un **Fullstack Development**.
+Soy un **desarrollador Frontend** de **17 años**, intentando mejorar en ese ámbito, y futuramente poder ser un **Fullstack Development**.
 
 ## 🚀 ¿Qué hago?
 
