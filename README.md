@@ -21,6 +21,8 @@ Soy un **desarrollador Frontend** de **17 años**, enfocado en mejorar mis habil
 ## ✨ Un poco sobre mí
 
 - 🤓 **Autodidacta**: Siempre estoy en busca de algo nuevo que aprender para seguir mejorando.
+- 🎯 **Enfocado**: Me esfuerzo por alcanzar mis metas, paso a paso.
+
 ---
 
 ## 💻 Estadísticas
@@ -30,5 +32,6 @@ Soy un **desarrollador Frontend** de **17 años**, enfocado en mejorar mis habil
 ---
 
 <p align="center">
-    <img src="https://www.gifsanimados.org/data/media/90/fuego-imagen-animada-0419.gif" alt="Fuego" width="100%" height="100">
+    <img src="https://www.gifsanimados.org/data/media/90/fuego-imagen-animada-0419.gif" alt="Fuego" width="400" height="100"><br>
+    <span style="font-size: 24px; color: #FF4500; font-weight: bold;">HTML</span>
 </p>
