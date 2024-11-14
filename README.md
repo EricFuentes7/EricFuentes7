@@ -19,4 +19,5 @@ Soy un **desarrollador Frontend** de **17 años**, intentando mejorar en ese ám
 ## 💻 Estadísticas
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tjqtcl6ukw4mie3n24qtbgll3e&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tjqtcl6ukw4mie3n24qtbgll3e&redirect=true)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
