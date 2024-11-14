@@ -30,5 +30,5 @@ Soy un **desarrollador Frontend** de **17 años**, enfocado en mejorar mis habil
 ---
 
 <p align="center">
-    <img src="https://www.gifsanimados.org/data/media/90/fuego-imagen-animada-0419.gif" alt="Fuego" width="400" height="100">
+    <img src="https://www.gifsanimados.org/data/media/90/fuego-imagen-animada-0419.gif" alt="Fuego" width="100%" height="100">
 </p>
