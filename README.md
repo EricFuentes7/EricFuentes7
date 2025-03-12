@@ -6,13 +6,13 @@ Soy un **desarrollador Frontend** de **17 años**, enfocado en mejorar mis habil
 
 ## 🚀 ¿Qué hago?
 
-- 🔧 **Desarrollo Frontend**: Me encanta crear páginas web con **HTML** y **CSS** como principales herramientas. También exploro un poco de **Backend** con **PHP** y **JavaScript**.
+- 🔧 **Desarrollo Frontend**: Me encanta crear páginas web con **HTML** y **CSS** como principales herramientas.
 
 ---
 
 ## 📚 Tecnologías y Herramientas
 
-- **Lenguajes**: HTML, CSS, JavaScript (nivel básico)
+- **Lenguajes**: HTML, CSS, C++ (nivel básico)
 - **Bases de Datos**: MySQL
 - **Herramientas**: Git, GitHub, VSCode
 
