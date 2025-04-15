@@ -12,7 +12,7 @@ Soy un **desarrollador Frontend** de **17 años**, enfocado en mejorar mis habil
 
 ## 📚 Tecnologías y Herramientas
 
-- **Lenguajes**: HTML, CSS, C++ (nivel básico)
+- **Lenguajes**: HTML, CSS, JS (nivel básico) y C++ (nivel básico)
 - **Bases de Datos**: MySQL
 - **Herramientas**: Git, GitHub, VSCode
 
