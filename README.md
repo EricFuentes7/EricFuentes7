@@ -1,22 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=EricFuentes7&label=Visitas%20al%20perfil&color=blue&style=plastic)
-![imagen1](./window2.png)
+![imagen1](./tit.png)
 
-## 📚 Tecnologías y Herramientas
-
-- **Lenguajes**: HTML, CSS, JS (nivel básico) y C++ (nivel básico)
-- **Bases de Datos**: MySQL
-- **Herramientas**: Git, GitHub, VSCode
-
----
-
-## ✨ Un poco sobre mí
-
-- 🤓 **Autodidacta**: Siempre estoy en busca de algo nuevo que aprender para seguir mejorando.
-- 🎯 **Enfocado**: Me esfuerzo por alcanzar mis metas, paso a paso.
-
----
-
-## 💻 Estadísticas
+## Estadísticas
 
 ![EricFuentes7's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical)
 
