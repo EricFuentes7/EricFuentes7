@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=EricFuentes7&label=Visitas%20al%20perfil&color=blue&style=plastic)
+![EricFuentes7 Screenshot](https://api.apiflash.com/v1/urltoimage?access_key=fe570a9ddeb04c86acdc5715a2b2a4d3&wait_until=page_loaded&url=https://ericfuentes7.github.io/EricFuentes7/&width=850&height=450)
 
 # 👋 ¡Hola! Soy **Eric Fuentes**
 
