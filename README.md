@@ -27,7 +27,12 @@ Soy un **desarrollador Frontend** de **17 años**, enfocado en mejorar mis habil
 
 ## 💻 Estadísticas
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical)
+![EricFuentes7's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricFuentes7&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EricFuentes7&theme=radical)
+
 ---
 
 <p align="center">
