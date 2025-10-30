@@ -1,7 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=EricFuentes7&label=Visitas%20al%20perfil&color=blue&style=plastic)
-![imagen1](./tit.png)
-
-## Estadísticas
+![imagen1](./lol.png)
 
 ![EricFuentes7's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&theme=radical)
 
