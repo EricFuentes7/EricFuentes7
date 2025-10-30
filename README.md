@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=EricFuentes7&label=👁️%20Visitas%20al%20perfil&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=EricFuentes7&label=Visitas%20al%20perfil&color=blue&style=plastic)
 
 # 👋 ¡Hola! Soy **Eric Fuentes**
 
