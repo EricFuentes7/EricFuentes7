@@ -12,6 +12,7 @@
   padding: 12px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 ">
+
   <div style="
     flex: 2;
     background: #ffffff;
@@ -21,6 +22,7 @@
   ">
     <img src="https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&title_color=003366&icon_color=0059b3&text_color=000000&bg_color=ffffff&hide_border=true" alt="GitHub stats" style="width:100%; height:100%;" />
   </div>
+
   <div style="
     flex: 1;
     background: #ffffff;
