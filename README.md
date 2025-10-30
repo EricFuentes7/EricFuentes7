@@ -1,18 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=EricFuentes7&label=Visitas%20al%20perfil&color=blue&style=plastic)
-![imagen1](./window1(1).png)
 ![imagen1](./window2.png)
-
-# 👋 ¡Hola! Soy **Eric Fuentes**
-
-Soy un **desarrollador Frontend** de **17 años**, enfocado en mejorar mis habilidades para, en un futuro, convertirme en **Fullstack Developer**.
-
----
-
-## 🚀 ¿Qué hago?
-
-- 🔧 **Desarrollo Frontend**: Me encanta crear páginas web con **HTML** y **CSS** como principales herramientas.
-
----
 
 ## 📚 Tecnologías y Herramientas
 
