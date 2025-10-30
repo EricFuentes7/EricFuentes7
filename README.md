@@ -6,17 +6,17 @@
   border: 2px solid #7aa6d6;
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  padding: 12px;
+  padding: 0px;
   display: inline-block;
 ">
 
   <table style="border-collapse: collapse;">
     <tr>
-      <td style="padding: 8px; border: 1px solid #a0c4ff; border-radius: 8px; background: #ffffff;">
+      <td style="padding: 0px; border: 1px solid #a0c4ff; border-radius: 8px; background: #ffffff;">
         <img src="https://github-readme-stats.vercel.app/api?username=EricFuentes7&show_icons=true&title_color=003366&icon_color=0059b3&text_color=000000&bg_color=ffffff&hide_border=true" 
              alt="GitHub stats" width="400" />
       </td>
-      <td style="padding: 8px; border: 1px solid #a0c4ff; border-radius: 8px; background: #ffffff;">
+      <td style="padding: 0px; border: 1px solid #a0c4ff; border-radius: 8px; background: #ffffff;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricFuentes7&layout=compact&title_color=003366&text_color=000000&bg_color=ffffff&hide_border=true" 
              alt="Top Langs" width="300" />
       </td>
